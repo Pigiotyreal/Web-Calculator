@@ -1,2 +1,3 @@
-# Web-Calculator
-A calculator you can use on the web
+This is a web based calculator writen with html, css, and javascript
+
+When running, run the index.html file!
